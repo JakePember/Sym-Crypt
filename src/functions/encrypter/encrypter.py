@@ -5,11 +5,8 @@ from utils.user_questions import get_user_crypt_values
 def encrypter_handler():
     amt_to_encrypt = int(input('Number of values do you want to encrypt: '))
 
+    # Prompts user to enter in the values they want encrypted or decrypted
     list_of_values = get_user_crypt_values(amt_to_encrypt, 1)
-    # # Get the user values to encrypt
-    # list_of_values = []
-    # for x in range(1, amt_to_encrypt + 1):
-    #     list_of_values.append(bytes(input(f'Enter value {x}: '), 'utf-8'))
 
     # Generate key and create the storage locker
     key = Fernet.generate_key()  # this is your "password"
