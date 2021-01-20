@@ -26,7 +26,7 @@ The following installations assumes you have met the requirements within
 the [requirements section](#requirements).
 
 ### Python Install
-Install the dependencies list found in the `[requirements.txt]`(requirements.txt) file.
+Install the dependencies list found in the [`requirements.txt`](requirements.txt) file.
 * `pip install -r requirements.txt`
 
 ### Docker Install
