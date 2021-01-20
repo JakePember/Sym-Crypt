@@ -10,7 +10,7 @@ INTRODUCTION
 ------------
 Sym-Crypt is a CLI tool that uses symmetric encryption/decryption. You can use this
 tool to encrypt multiple values under one deciphering key. If you would like to decrypt
-the values later on, you may do so as well with this tool
+the values later on, you may do so as well.
 
 REQUIREMENTS
 ------------
