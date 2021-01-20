@@ -41,7 +41,7 @@ Depending on the what route you took in the [installation step](#INSTALLATION), 
 `python main.py`
 
 ### Docker
-`docker run -it qtrader:1.0`
+`docker run -it sym-crypt:v1.0.0`
 
 MAINTAINERS
 -----------
