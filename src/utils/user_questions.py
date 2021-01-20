@@ -1,6 +1,3 @@
-import getpass
-
-
 class UserQuestions:
     @staticmethod
     def get_user_crypt_values(amount_of_crypt_values, crypt_path):
