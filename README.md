@@ -25,11 +25,11 @@ INSTALLATION
 The following installations assumes you have met the requirements within
 the [requirements section](#requirements).
 
-###Python Install
+### Python Install
 Install the dependencies list found in the `[requirements.txt]`(requirements.txt) file.
 * `pip install -r requirements.txt`
 
-###Docker Install
+### Docker Install
 Create the Docker image from the [Dockerfile](Dockerfile)
 * `docker build -t sym-crypt:v1.0.0 .`
 
