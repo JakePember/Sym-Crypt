@@ -14,7 +14,7 @@ the values later on, you may do so as well.
 
 REQUIREMENTS
 ------------
-QTrader has been developed on Python 3.8. If you do not have Python installed
+Sym-Crypt has been developed on Python 3.8. If you do not have Python installed
 you may download it from their [home page](https://www.python.org/downloads/).
 
 If you choose to run the docker container of Sym-Crypt, you will have to download
